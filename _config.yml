@@ -18,16 +18,16 @@ avatar: http://icons.iconarchive.com/icons/creativeflip/starwars-longshadow-flat
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: wdistefano[at]shwuzzle[dot]com
   facebook:
   flickr:
   github: darkmuck
   instagram:
-  linkedin:
+  linkedin: williamdistefano
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: darkmuck
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/281243/darkmuck
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
