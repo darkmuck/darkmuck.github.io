@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-05-03 08:19:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/05/03/file-encoding-validation/
 published: true
 aktt_notify_twitter:
   - 'yes'
