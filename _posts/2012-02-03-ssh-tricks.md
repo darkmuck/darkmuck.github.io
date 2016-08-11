@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-02-03 22:55:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/02/03/ssh-tricks/
 published: true
 aktt_notify_twitter:
   - 'yes'
