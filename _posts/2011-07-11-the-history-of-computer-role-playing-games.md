@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-07-11 08:46:55
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/07/11/the-history-of-computer-role-playing-games/
 published: true
 aktt_notify_twitter:
   - 'yes'
