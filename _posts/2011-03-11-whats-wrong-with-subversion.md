@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-03-11 13:08:27
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/03/11/whats-wrong-with-subversion/
 published: true
 aktt_notify_twitter:
   - 'yes'
