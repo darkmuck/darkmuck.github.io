@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-24 07:50:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/24/why-gnu-grep-is-so-fast/
 published: true
 ratings_users:
   - "0"
