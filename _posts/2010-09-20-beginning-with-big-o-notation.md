@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-20 09:35:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/20/beginning-with-big-o-notation/
 published: true
 aktt_notify_twitter:
   - 'no'
