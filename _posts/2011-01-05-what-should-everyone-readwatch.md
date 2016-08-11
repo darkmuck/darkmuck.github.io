@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-01-05 07:36:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/05/what-should-everyone-readwatch/
 published: true
 aktt_notify_twitter:
   - 'yes'
