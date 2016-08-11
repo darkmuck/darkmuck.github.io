@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-10-15 11:34:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/10/15/c-language-october-14-1985/
 published: true
 aktt_notify_twitter:
   - 'yes'
