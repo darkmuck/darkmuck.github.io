@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-03 17:07:12
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/03/what-do-sorting-algorithms-sound-like/
 published: true
 ratings_users:
   - "0"
