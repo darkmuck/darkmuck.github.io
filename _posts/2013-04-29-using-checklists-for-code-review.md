@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-04-29 12:05:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/04/29/using-checklists-for-code-review/
 published: true
 aktt_notify_twitter:
   - 'yes'
