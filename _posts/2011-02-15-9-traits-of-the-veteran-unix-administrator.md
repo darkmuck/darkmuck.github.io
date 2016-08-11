@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-02-15 09:07:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/02/15/9-traits-of-the-veteran-unix-administrator/
 published: true
 aktt_notify_twitter:
   - 'yes'
