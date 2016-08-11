@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-05-15 18:35:44
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/05/15/node-js-examples-and-other-small-apps/
 published: true
 aktt_notify_twitter:
   - 'yes'
