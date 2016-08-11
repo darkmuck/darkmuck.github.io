@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-12-22 08:39:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/22/americas-most-important-algorithm/
 published: true
 aktt_notify_twitter:
   - 'yes'
