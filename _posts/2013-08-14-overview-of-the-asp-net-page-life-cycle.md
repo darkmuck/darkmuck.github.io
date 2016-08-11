@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-14 11:06:36
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/14/overview-of-the-asp-net-page-life-cycle/
 published: true
 ---
 When running an ASP.NET webpage the page goes through a series of steps as it is being processed. This page life cycle includes: instantiating controls, restoring and maintaining state, running event handler code, and rendering. Having a good understanding of the page life cycle is important so that you know when in the process you should populate properties, initialize controls, run control behavior code, etc.
