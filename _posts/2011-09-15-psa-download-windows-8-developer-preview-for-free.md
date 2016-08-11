@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-09-15 12:06:23
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/09/15/psa-download-windows-8-developer-preview-for-free/
 published: true
 aktt_notify_twitter:
   - 'yes'
