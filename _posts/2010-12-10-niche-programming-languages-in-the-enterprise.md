@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-12-10 12:56:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/10/niche-programming-languages-in-the-enterprise/
 published: true
 aktt_notify_twitter:
   - 'yes'
