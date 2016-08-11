@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-20 13:19:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/20/careers-for-computer-science-graduates/
 published: true
 ratings_users:
   - "0"
