@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2012-07-19 15:10:11
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/07/19/debunking-the-myth-of-high-level-languages/
 published: true
 aktt_notify_twitter:
   - 'yes'
