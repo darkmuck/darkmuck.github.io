@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-01-20 19:45:24
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/20/a-closer-look-into-php-arrays/
 published: true
 aktt_notify_twitter:
   - 'yes'
