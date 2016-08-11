@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-09-10 12:08:34
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/09/10/bucket-sort-algorithm-in-javascript/
 published: true
 snapEdIT:
   - "1"
