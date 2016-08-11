@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-12-29 13:55:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/12/29/the-difference-between-disown-and-nohup/
 published: true
 aktt_notify_twitter:
   - 'yes'
