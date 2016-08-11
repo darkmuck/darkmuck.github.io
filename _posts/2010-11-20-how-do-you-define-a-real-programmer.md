@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-11-20 12:05:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/20/how-do-you-define-a-real-programmer/
 published: true
 aktt_notify_twitter:
   - 'yes'
