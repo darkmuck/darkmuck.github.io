@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-10-07 12:22:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/10/07/10-programming-languages-worth-checking-out/
 published: true
 aktt_notify_twitter:
   - 'yes'
