@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-13 08:29:05
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/13/the-world-of-programming-infographic/
 published: true
 ratings_users:
   - "0"
