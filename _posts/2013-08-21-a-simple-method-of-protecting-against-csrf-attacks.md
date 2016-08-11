@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-08-21 10:13:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/21/a-simple-method-of-protecting-against-csrf-attacks/
 published: true
 ---
 A simple method to protect your web application against CSRF (cross-site request forgery) attacks is to generate and validate a unique token of some sort. This can help to prevent automated CSRF attacks. Basically, you will generate a unique token for the user, place it on the page, and then check the token to verify that its valid. You could implement this in just about any server side language, but here is a PHP example.
