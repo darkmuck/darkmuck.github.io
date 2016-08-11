@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-05-02 14:27:44
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/05/02/web-framework-benchmarks-comparison/
 published: true
 aktt_notify_twitter:
   - 'yes'
