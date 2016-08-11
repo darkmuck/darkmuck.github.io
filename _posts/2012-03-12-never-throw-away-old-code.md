@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-03-12 09:15:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/03/12/never-throw-away-old-code/
 published: true
 aktt_notify_twitter:
   - 'yes'
