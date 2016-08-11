@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-02-03 18:12:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/02/03/the-first-digital-computer-wasnt-the-eniac/
 published: true
 aktt_notify_twitter:
   - 'yes'
