@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-08-27 18:36:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/27/javascript-functions-as-object-constructors/
 published: true
 ---
 JavaScript is a prototype-based language and doesn't exactly support actual constructors, but we can sort of simulate constructors with functions. One thing to be weary of in JavaScript is scope management. JavaScript doesn't support classes; it only has support for functions. So you would be using functions in place of classes as well. Also, scope can be an issue with the 'this' keyword because 'this' operates different than in object-oriented languages. In JavaScript, the 'this' keyword refers to the global scope (window object), whereas in most object-oriented languages 'this' refers to the parent object.
