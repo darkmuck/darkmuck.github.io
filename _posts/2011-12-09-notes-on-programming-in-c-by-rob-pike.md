@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-12-09 10:12:23
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/12/09/notes-on-programming-in-c-by-rob-pike/
 published: true
 aktt_notify_twitter:
   - 'yes'
