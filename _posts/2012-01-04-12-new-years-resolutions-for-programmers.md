@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-01-04 10:09:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/04/12-new-years-resolutions-for-programmers/
 published: true
 aktt_notify_twitter:
   - 'yes'
