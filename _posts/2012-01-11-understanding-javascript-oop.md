@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-01-11 13:17:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/11/understanding-javascript-oop/
 published: true
 aktt_notify_twitter:
   - 'yes'
