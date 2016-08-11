@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-08-21 17:49:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/08/21/updog-for-android/
 published: true
 aktt_notify_twitter:
   - 'yes'
