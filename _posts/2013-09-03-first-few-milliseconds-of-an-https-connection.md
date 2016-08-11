@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-09-03 15:38:35
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/09/03/first-few-milliseconds-of-an-https-connection/
 published: true
 snap_isAutoPosted:
   - "1"
