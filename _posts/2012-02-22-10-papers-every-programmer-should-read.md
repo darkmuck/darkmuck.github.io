@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-02-22 12:50:38
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/02/22/10-papers-every-programmer-should-read/
 published: true
 aktt_notify_twitter:
   - 'yes'
