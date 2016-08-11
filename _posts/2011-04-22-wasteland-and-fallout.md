@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-04-22 09:09:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/04/22/wasteland-and-fallout/
 published: true
 aktt_notify_twitter:
   - 'yes'
