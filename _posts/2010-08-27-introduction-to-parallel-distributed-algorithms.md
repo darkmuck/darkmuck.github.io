@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-27 11:39:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/27/introduction-to-parallel-distributed-algorithms/
 published: true
 ratings_users:
   - "0"
