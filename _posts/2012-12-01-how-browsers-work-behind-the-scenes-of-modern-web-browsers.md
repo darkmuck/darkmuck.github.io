@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-12-01 08:27:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/12/01/how-browsers-work-behind-the-scenes-of-modern-web-browsers/
 published: true
 aktt_notify_twitter:
   - 'yes'
