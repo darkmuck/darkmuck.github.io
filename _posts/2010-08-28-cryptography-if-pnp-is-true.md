@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-28 13:37:23
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/28/cryptography-if-pnp-is-true/
 published: true
 ratings_users:
   - "0"
