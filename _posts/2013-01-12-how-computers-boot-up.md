@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-01-12 23:08:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/12/how-computers-boot-up/
 published: true
 aktt_notify_twitter:
   - 'yes'
