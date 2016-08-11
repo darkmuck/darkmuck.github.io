@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-09-06 14:15:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/09/06/bubble-sort-algorithm-in-javascript/
 published: true
 snap_isAutoPosted:
   - "1"
