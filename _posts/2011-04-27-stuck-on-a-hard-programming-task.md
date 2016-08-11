@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-04-27 09:25:36
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/04/27/stuck-on-a-hard-programming-task/
 published: true
 aktt_notify_twitter:
   - 'yes'
