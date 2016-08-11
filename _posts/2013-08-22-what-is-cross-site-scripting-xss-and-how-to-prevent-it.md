@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-08-22 11:54:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/22/what-is-cross-site-scripting-xss-and-how-to-prevent-it/
 published: true
 ---
 Cross-Site Scripting (XSS) isn't necessarily an actual "cross-site" attack, instead its essentially an insertion of client-side script code placed strategically such that users will execute them. This is possible when output from the website isn't properly escaped, thereby allowing extra code to be added.
