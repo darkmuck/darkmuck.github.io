@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-08-20 13:09:18
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/20/computer-processor-computes-probabilities-instead-of-logic/
 published: true
 ratings_users:
   - "0"
