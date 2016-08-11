@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-04-19 11:43:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/04/19/a-detailed-analysis-of-arm-and-x86-architectures/
 published: true
 aktt_notify_twitter:
   - 'yes'
