@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-11-02 08:42:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/02/lambda-calculus-and-its-role-in-computer-science/
 published: true
 aktt_notify_twitter:
   - 'yes'
