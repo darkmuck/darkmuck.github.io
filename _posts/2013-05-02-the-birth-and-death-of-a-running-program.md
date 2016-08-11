@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-05-02 14:33:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/05/02/the-birth-and-death-of-a-running-program/
 published: true
 aktt_notify_twitter:
   - 'yes'
