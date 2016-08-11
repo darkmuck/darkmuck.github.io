@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-12-29 11:26:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/12/29/dont-have-the-new-google-bar-yet/
 published: true
 aktt_notify_twitter:
   - 'yes'
