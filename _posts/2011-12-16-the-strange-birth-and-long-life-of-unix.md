@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-12-16 23:28:56
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/12/16/the-strange-birth-and-long-life-of-unix/
 published: true
 aktt_notify_twitter:
   - 'yes'
