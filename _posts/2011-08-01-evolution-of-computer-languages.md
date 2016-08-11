@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-08-01 09:15:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/08/01/evolution-of-computer-languages/
 published: true
 aktt_notify_twitter:
   - 'yes'
