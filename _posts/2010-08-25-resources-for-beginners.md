@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-25 12:16:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/25/resources-for-beginners/
 published: true
 ratings_users:
   - "0"
