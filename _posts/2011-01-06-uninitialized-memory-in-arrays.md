@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-01-06 13:55:13
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/06/uninitialized-memory-in-arrays/
 published: true
 aktt_notify_twitter:
   - 'yes'
