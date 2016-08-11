@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-04-22 09:54:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/04/22/doom-engine-source-code-review/
 published: true
 aktt_notify_twitter:
   - 'yes'
