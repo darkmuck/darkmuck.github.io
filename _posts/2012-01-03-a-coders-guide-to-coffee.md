@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-01-03 10:28:17
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/03/a-coders-guide-to-coffee/
 published: true
 aktt_notify_twitter:
   - 'yes'
