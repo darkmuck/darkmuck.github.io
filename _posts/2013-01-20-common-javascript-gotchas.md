@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-01-20 18:48:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/20/common-javascript-gotchas/
 published: true
 aktt_notify_twitter:
   - 'yes'
