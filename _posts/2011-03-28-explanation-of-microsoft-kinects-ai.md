@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-03-28 09:37:38
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/03/28/explanation-of-microsoft-kinects-ai/
 published: true
 aktt_notify_twitter:
   - 'yes'
