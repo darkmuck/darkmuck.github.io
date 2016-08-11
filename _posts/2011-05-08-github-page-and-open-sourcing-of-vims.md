@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-05-08 08:20:32
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/05/08/github-page-and-open-sourcing-of-vims/
 published: true
 aktt_notify_twitter:
   - 'yes'
