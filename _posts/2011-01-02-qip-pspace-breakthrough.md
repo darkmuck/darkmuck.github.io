@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-01-02 21:44:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/02/qip-pspace-breakthrough/
 published: true
 aktt_notify_twitter:
   - 'yes'
