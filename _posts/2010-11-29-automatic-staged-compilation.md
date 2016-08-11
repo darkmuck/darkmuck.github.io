@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-11-29 16:14:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/29/automatic-staged-compilation/
 published: true
 aktt_notify_twitter:
   - 'yes'
