@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-01-12 23:10:47
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/12/vim-adventures/
 published: true
 aktt_notify_twitter:
   - 'yes'
