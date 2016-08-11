@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-01-23 16:13:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/23/facebook-hacker-cup-programming-competition/
 published: true
 aktt_notify_twitter:
   - 'yes'
