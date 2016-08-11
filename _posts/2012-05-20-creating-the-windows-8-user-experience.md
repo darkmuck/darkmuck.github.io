@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-05-20 10:10:45
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/05/20/creating-the-windows-8-user-experience/
 published: true
 aktt_notify_twitter:
   - 'yes'
