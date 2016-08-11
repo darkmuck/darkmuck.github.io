@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-11-23 10:45:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/23/assembly-programming-tutorial-videos/
 published: true
 aktt_notify_twitter:
   - 'yes'
