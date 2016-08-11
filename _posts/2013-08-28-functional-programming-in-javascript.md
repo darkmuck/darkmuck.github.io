@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-28 15:28:11
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/28/functional-programming-in-javascript/
 published: true
 ---
 Procedural programming is where you define a procedure to solve a problem. Functional (aka declarative) programming is distinct from this in that you describe the "what" of the problem. With functional programming the results depend upon only the inputs and not on the program state. JavaScript is actually a multi-paradigm language, because it supports object-oriented, imperative, and functional programming styles.
