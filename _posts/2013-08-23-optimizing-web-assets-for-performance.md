@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-23 15:54:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/23/optimizing-web-assets-for-performance/
 published: true
 ---
 Although most internet users nowadays have very fast connections it is still important to optimize your web application's assets to ensure optimal performance. This is especially the case for mobile users, which have more constrained resources (data connections and hardware resources). There are a number of things you can do but I'lll highlight just a few that I believe are important to think about.
