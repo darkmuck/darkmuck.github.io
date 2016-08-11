@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-12-31 13:36:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/31/programming-with-perl/
 published: true
 aktt_notify_twitter:
   - 'yes'
