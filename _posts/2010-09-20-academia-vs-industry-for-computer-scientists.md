@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-09-20 13:33:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/20/academia-vs-industry-for-computer-scientists/
 published: true
 aktt_notify_twitter:
   - 'no'
