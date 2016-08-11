@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-10-10 09:04:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/10/10/dart-programming-language/
 published: true
 aktt_notify_twitter:
   - 'yes'
