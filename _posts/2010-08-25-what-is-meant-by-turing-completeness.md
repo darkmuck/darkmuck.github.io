@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-25 14:17:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/25/what-is-meant-by-turing-completeness/
 published: true
 ratings_users:
   - "0"
