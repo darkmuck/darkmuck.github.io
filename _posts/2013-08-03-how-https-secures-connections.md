@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-03 09:12:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/03/how-https-secures-connections/
 published: true
 ---
 "<em>How does HTTPS actually work? ..... How was data protected? How can a client and server create a secure connection if someone was already listening in on the wire? What is a security certificate and why do I need to pay someone to get one? .....</em>"
