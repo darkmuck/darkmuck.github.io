@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-01-08 18:17:38
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/08/the-development-of-the-c-language/
 published: true
 aktt_notify_twitter:
   - 'yes'
