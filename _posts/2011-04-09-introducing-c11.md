@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-04-09 08:57:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/04/09/introducing-c11/
 published: true
 aktt_notify_twitter:
   - 'yes'
