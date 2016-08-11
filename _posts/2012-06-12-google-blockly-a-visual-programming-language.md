@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-06-12 14:51:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/06/12/google-blockly-a-visual-programming-language/
 published: true
 aktt_notify_twitter:
   - 'yes'
