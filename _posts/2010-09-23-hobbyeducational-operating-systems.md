@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-23 07:44:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/23/hobbyeducational-operating-systems/
 published: true
 aktt_notify_twitter:
   - 'no'
