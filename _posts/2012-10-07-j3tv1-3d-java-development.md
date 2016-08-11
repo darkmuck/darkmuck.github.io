@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-10-07 15:45:27
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/10/07/j3tv1-3d-java-development/
 published: true
 aktt_notify_twitter:
   - 'yes'
