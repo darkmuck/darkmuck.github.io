@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-13 21:24:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/13/zfs-vs-unraid/
 published: true
 ---
 If you are looking for a good solution to protect your data, but want it to be more flexible than something like a RAID 1 or RAID 5 you may have considered ZFS, unRAID, or various other proprietary solutions.
