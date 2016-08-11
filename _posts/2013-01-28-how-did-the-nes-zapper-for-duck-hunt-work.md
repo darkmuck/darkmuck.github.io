@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-01-28 15:49:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/28/how-did-the-nes-zapper-for-duck-hunt-work/
 published: true
 aktt_notify_twitter:
   - 'yes'
