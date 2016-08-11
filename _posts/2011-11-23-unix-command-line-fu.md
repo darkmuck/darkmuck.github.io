@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-11-23 08:53:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/11/23/unix-command-line-fu/
 published: true
 aktt_notify_twitter:
   - 'yes'
