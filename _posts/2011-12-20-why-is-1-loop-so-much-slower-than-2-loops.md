@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-12-20 13:48:50
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/12/20/why-is-1-loop-so-much-slower-than-2-loops/
 published: true
 aktt_notify_twitter:
   - 'yes'
