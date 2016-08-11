@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-08-27 14:49:12
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/08/27/official-release-of-the-newest-deal-lite-for-android/
 published: true
 aktt_notify_twitter:
   - 'yes'
