@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-30 07:28:55
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/30/fast-sorting-algorithm-uses-gpus/
 published: true
 ratings_users:
   - "0"
