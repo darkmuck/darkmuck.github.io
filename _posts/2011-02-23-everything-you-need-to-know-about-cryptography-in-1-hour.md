@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-02-23 09:25:58
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/02/23/everything-you-need-to-know-about-cryptography-in-1-hour/
 published: true
 aktt_notify_twitter:
   - 'yes'
