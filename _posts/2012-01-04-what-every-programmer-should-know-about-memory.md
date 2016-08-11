@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2012-01-04 09:25:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/04/what-every-programmer-should-know-about-memory/
 published: true
 aktt_notify_twitter:
   - 'yes'
