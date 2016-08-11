@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-02-11 15:39:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/02/11/computer-science-timeline/
 published: true
 aktt_notify_twitter:
   - 'yes'
