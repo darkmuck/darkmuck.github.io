@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-09-06 10:24:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/06/becoming-more-creative-with-problem-solving/
 published: true
 ratings_users:
   - "0"
