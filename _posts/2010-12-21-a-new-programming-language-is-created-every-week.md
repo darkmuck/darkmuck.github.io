@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-12-21 13:12:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/21/a-new-programming-language-is-created-every-week/
 published: true
 aktt_notify_twitter:
   - 'yes'
