@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-10-18 08:29:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/10/18/why-do-people-still-use-vivim/
 published: true
 aktt_notify_twitter:
   - 'yes'
