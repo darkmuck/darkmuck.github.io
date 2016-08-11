@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-08-28 09:01:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/28/is-systems-software-research-irrelevant/
 published: true
 ratings_users:
   - "0"
