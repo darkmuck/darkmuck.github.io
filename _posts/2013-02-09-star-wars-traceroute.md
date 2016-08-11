@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-02-09 12:22:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/02/09/star-wars-traceroute/
 published: true
 aktt_notify_twitter:
   - 'yes'
