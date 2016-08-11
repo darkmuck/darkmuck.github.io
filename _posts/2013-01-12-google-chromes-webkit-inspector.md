@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-01-12 23:16:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/12/google-chromes-webkit-inspector/
 published: true
 aktt_notify_twitter:
   - 'yes'
