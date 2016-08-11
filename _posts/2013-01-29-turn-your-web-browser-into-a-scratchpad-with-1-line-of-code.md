@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-01-29 21:27:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/29/turn-your-web-browser-into-a-scratchpad-with-1-line-of-code/
 published: true
 aktt_notify_twitter:
   - 'yes'
