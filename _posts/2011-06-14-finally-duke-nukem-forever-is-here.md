@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-06-14 17:56:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/06/14/finally-duke-nukem-forever-is-here/
 published: true
 aktt_notify_twitter:
   - 'yes'
