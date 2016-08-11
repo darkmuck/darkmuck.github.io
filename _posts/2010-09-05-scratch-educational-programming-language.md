@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-05 14:37:34
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/05/scratch-educational-programming-language/
 published: true
 ratings_users:
   - "0"
