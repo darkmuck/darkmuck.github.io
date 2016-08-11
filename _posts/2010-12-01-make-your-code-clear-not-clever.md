@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-12-01 09:35:56
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/01/make-your-code-clear-not-clever/
 published: true
 aktt_notify_twitter:
   - 'yes'
