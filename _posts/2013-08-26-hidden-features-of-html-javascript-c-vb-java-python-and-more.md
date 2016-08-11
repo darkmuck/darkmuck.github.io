@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-26 20:34:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/26/hidden-features-of-html-javascript-c-vb-java-python-and-more/
 published: true
 ---
 These pages had been posted on <a href="http://stackoverflow.com">StackOverflow </a>a few years ago. They contain great collections of "hidden features" of various languages and even of a few tools.
