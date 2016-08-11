@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-29 08:58:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/29/updates-new-section-and-added-books/
 published: true
 aktt_notify_twitter:
   - 'no'
