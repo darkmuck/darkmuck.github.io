@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-16 15:34:34
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/16/how-to-fake-a-higher-resolution-in-windows/
 published: true
 ---
 If your windows machine is stuck with a low resolution and you wish you had a higher resolution screen you might want to try out this registry hack. This is a way to "fake" a higher resolution in Windows by lowering the DPI. This method is done by modifying values in the registry because by default Windows won't let you set it this low.
