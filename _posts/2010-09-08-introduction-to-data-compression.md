@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-08 09:29:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/08/introduction-to-data-compression/
 published: true
 ratings_users:
   - "0"
