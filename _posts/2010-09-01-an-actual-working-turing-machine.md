@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-01 09:08:05
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/01/an-actual-working-turing-machine/
 published: true
 ratings_users:
   - "0"
