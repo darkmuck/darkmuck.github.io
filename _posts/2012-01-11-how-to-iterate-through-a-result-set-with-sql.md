@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2012-01-11 16:48:01
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/11/how-to-iterate-through-a-result-set-with-sql/
 published: true
 aktt_notify_twitter:
   - 'yes'
