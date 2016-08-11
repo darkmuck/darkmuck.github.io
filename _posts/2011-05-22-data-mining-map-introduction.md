@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-05-22 09:39:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/05/22/data-mining-map-introduction/
 published: true
 aktt_notify_twitter:
   - 'yes'
