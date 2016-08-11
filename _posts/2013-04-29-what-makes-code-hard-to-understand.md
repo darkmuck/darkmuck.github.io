@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-04-29 11:58:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/04/29/what-makes-code-hard-to-understand/
 published: true
 aktt_notify_twitter:
   - 'yes'
