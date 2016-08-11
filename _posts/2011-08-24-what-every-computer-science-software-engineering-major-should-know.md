@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-08-24 22:18:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/08/24/what-every-computer-science-software-engineering-major-should-know/
 published: true
 aktt_notify_twitter:
   - 'yes'
