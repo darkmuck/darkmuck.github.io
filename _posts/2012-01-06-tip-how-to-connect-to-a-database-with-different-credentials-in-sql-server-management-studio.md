@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-01-06 10:42:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/01/06/tip-how-to-connect-to-a-database-with-different-credentials-in-sql-server-management-studio/
 published: true
 aktt_notify_twitter:
   - 'yes'
