@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2012-05-07 14:52:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/05/07/what-every-programmer-should-know-about-security/
 published: true
 aktt_notify_twitter:
   - 'yes'
