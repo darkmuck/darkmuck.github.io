@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-03-15 08:33:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/03/15/16-linux-server-commands-you-should-know/
 published: true
 aktt_notify_twitter:
   - 'yes'
