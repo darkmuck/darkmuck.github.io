@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-03-21 08:28:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/03/21/google-a-i-challenge-2011/
 published: true
 aktt_notify_twitter:
   - 'yes'
