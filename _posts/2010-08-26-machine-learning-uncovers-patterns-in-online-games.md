@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-08-26 07:16:12
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/08/26/machine-learning-uncovers-patterns-in-online-games/
 published: true
 ratings_users:
   - "0"
