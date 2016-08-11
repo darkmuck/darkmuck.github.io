@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-12-08 14:13:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/12/08/linux-distro-timeline/
 published: true
 aktt_notify_twitter:
   - 'yes'
