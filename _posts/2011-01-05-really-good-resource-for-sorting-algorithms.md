@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-01-05 13:55:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/05/really-good-resource-for-sorting-algorithms/
 published: true
 aktt_notify_twitter:
   - 'yes'
