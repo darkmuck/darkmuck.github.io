@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-12-22 09:21:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/22/google-cr48-chrome-notebook/
 published: true
 aktt_notify_twitter:
   - 'yes'
