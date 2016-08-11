@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-06-28 08:08:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/06/28/understanding-fast-inverse-square-root-as-used-in-the-game-quake/
 published: true
 aktt_notify_twitter:
   - 'yes'
