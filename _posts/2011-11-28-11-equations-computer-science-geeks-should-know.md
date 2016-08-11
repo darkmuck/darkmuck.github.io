@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-11-28 20:27:12
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/11/28/11-equations-computer-science-geeks-should-know/
 published: true
 aktt_notify_twitter:
   - 'yes'
