@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-11-01 10:11:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/01/a-few-must-read-computer-science-books/
 published: true
 aktt_notify_twitter:
   - 'yes'
