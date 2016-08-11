@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-10-07 22:02:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/10/07/amazing-timelapse-video-landscapes-volume-two/
 published: true
 aktt_notify_twitter:
   - 'yes'
