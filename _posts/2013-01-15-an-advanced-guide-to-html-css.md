@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-01-15 16:45:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/01/15/an-advanced-guide-to-html-css/
 published: true
 aktt_notify_twitter:
   - 'yes'
