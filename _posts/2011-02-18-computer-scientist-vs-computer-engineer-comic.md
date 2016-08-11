@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-02-18 17:11:34
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/02/18/computer-scientist-vs-computer-engineer-comic/
 published: true
 aktt_notify_twitter:
   - 'yes'
