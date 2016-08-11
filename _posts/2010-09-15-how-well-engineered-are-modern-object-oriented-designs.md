@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-09-15 10:25:35
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/15/how-well-engineered-are-modern-object-oriented-designs/
 published: true
 aktt_notify_twitter:
   - 'no'
