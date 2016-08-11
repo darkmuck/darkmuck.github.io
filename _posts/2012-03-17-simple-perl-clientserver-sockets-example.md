@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2012-03-17 17:38:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/03/17/simple-perl-clientserver-sockets-example/
 published: true
 aktt_notify_twitter:
   - 'yes'
