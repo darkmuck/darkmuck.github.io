@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-12-02 10:51:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/12/02/google-a-i-challenge-results/
 published: true
 aktt_notify_twitter:
   - 'yes'
