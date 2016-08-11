@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-08-10 09:56:55
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/08/10/useful-but-unknown-linux-commands/
 published: true
 aktt_notify_twitter:
   - 'yes'
