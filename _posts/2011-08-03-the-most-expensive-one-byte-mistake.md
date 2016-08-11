@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-08-03 07:44:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/08/03/the-most-expensive-one-byte-mistake/
 published: true
 aktt_notify_twitter:
   - 'yes'
