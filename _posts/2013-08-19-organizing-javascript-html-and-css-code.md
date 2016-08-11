@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-08-19 10:14:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/19/organizing-javascript-html-and-css-code/
 published: true
 ---
 Many web applications these days contain a ton of HTML, CSS, and JavaScript code. If you don't have a good plan before starting to code it can get really messy really fast. It's important to plan and organize your code well. Although we want to separate and organize our code as best as possible, the different types and pieces of code will inevitably need to be linked together in many ways.
