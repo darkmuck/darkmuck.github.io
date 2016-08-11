@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-02-14 16:05:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/02/14/state-machines-%e2%80%93-basics-of-computer-science/
 published: true
 aktt_notify_twitter:
   - 'yes'
