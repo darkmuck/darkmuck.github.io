@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-01-28 12:22:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/28/javascript-in-10-minutes/
 published: true
 aktt_notify_twitter:
   - 'yes'
