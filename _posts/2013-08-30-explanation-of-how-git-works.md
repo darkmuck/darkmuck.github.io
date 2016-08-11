@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-30 15:06:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/30/explanation-of-how-git-works/
 published: true
 ---
 Git is a distributed version control and source code management system. It was created originally by Linus Torvalds, who also had developed the original Linux kernel. Git is one of the most popular version control systems in use today.
