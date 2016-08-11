@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2010-09-02 09:47:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/02/which-areas-of-mathematics-to-study-for-computer-science/
 published: true
 ratings_users:
   - "0"
