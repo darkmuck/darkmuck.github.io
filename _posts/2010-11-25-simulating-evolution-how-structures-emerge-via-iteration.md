@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-11-25 08:56:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/25/simulating-evolution-how-structures-emerge-via-iteration/
 published: true
 aktt_notify_twitter:
   - 'yes'
