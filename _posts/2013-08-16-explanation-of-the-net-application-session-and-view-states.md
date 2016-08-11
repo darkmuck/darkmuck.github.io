@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-08-16 08:00:47
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/16/explanation-of-the-net-application-session-and-view-states/
 published: true
 ---
 Application State
