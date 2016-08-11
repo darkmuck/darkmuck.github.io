@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-05-18 19:49:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/05/18/understanding-the-fourier-transform/
 published: true
 aktt_notify_twitter:
   - 'yes'
