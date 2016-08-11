@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-11 09:01:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/11/google-a-i-challenge/
 published: true
 ratings_users:
   - "0"
