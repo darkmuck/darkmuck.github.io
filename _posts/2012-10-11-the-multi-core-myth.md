@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2012-10-11 12:22:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2012/10/11/the-multi-core-myth/
 published: true
 aktt_notify_twitter:
   - 'yes'
