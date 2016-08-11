@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2013-08-15 07:42:23
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/15/understanding-net-garbage-collection/
 published: true
 ---
 When it comes to software and memory use there are two ways to deal with managing it, either manually or automatically. With a managed environment, such as the .NET framework, memory is generally managed automatically.
