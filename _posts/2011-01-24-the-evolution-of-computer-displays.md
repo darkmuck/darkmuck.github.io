@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-01-24 13:29:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/01/24/the-evolution-of-computer-displays/
 published: true
 aktt_notify_twitter:
   - 'yes'
