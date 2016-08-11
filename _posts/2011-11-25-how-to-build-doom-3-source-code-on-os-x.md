@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2011-11-25 21:23:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/11/25/how-to-build-doom-3-source-code-on-os-x/
 published: true
 aktt_notify_twitter:
   - 'yes'
