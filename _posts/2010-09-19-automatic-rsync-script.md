@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-09-19 14:54:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/09/19/automatic-rsync-script/
 published: true
 aktt_notify_twitter:
   - 'no'
