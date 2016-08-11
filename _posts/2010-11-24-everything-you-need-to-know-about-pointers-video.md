@@ -5,8 +5,6 @@ author: Shwuzzle
 post_date: 2010-11-24 11:05:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2010/11/24/everything-you-need-to-know-about-pointers-video/
 published: true
 aktt_notify_twitter:
   - 'yes'
