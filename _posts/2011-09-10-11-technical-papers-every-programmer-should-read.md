@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2011-09-10 12:27:13
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2011/09/10/11-technical-papers-every-programmer-should-read/
 published: true
 aktt_notify_twitter:
   - 'yes'
