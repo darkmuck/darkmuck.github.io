@@ -87,6 +87,3 @@ exclude:
   - CNAME
 
 paginate: 10
-
-safe: true
-lsi: false
