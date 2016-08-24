@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 1.0 demo 1985
+post_title: Windows 1.0 demo 1985
 published: true
 ---
 
