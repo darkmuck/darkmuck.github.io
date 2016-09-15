@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 9 Qualities of Clean Code
-published: false
+published: true
 ---
 
 <ul>
