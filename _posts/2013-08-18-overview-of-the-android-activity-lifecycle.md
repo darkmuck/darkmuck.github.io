@@ -7,8 +7,6 @@ author: Shwuzzle
 post_date: 2013-08-18 13:33:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://localhost:8080/2013/08/18/overview-of-the-android-activity-lifecycle/
 published: true
 ---
 In developing for the Android platform, one of the most important concepts to understand is the Activity Lifecycle. This is important because applications behave much differently on Android when compared to traditional platforms, such as Windows, OS X, or Linux. With Android you have less control over the lifetime of an application.
