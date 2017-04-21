@@ -4,10 +4,22 @@ title: About
 permalink: /about/
 ---
 
-### About me
+### About
 
-I love to build and to learn things. I'm a senior developer by day and tinkerer by night. I am experienced in C#/VB .NET, ASP.NET, JavaScript/AJAX/jQuery/AngularJS, HTML5/CSS3, TFS/GIT, Bootstrap, and Agile/Waterfall Methodologies.  <a href="../williamdistefano_resume.pdf">Click here to view my resume.</a>
+I am a software engineer interested in both front and back end development, especially (but not only) JavaScript (mostly React/Angular/Vue/Node), .NET (C#/VB/ASP/MVC/WebAPI/etc), and SQL. I try to blog on topics related to software engineering as I explore and learn new things. <a href="../williamdistefano_resume.pdf">My resume/CV.</a>
 
-### Contact me
+### Education
+
+Master's in Software Engineering from Penn State, Bacherlor's in Information Systems from Penn State and Associate's in Computer Networking from HACC.
+
+### Code
+
+Most of my code is not publicly visible, but I do have a few tiny repositories <a href="https://github.com/darkmuck">here on GitHub</a>. Much of the code may be out of date and/or very incomplete.
+
+### Work
+
+I currently work for ComputerAid as a Senior Programmer Analyst and in the past I have worked for TecPort Solutions, Pennsylvania State University, Penn State Milton S. Hershey Medical Center, and PerformCare.
+
+### Contact
 
 [wdistefano][@][shwuzzle][.][com]
