@@ -8,7 +8,7 @@ published: true
 These 5 principles stand for the 5 basic principles of object-oriented programming and design. The intention is that these principles will make it more likely that we will create systems that are easier to maintain and extend.
 The SOLID acronym stands for:
 * S - Single Responsibility principle
-* >O - Open/Closed principle
+* O - Open/Closed principle
 * L - Liskov Substitution principle
 * I - Interface segregation principle
 * D - Dependency inversion principle
