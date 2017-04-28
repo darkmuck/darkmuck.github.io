@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dependency Injection
+title: What is Dependency Injection?
 pulished: true
 ---
 
