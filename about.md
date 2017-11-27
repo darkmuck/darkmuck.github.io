@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About
 
-I am a software engineer interested in both front and back end development, especially (but not only) JavaScript (mostly React/Angular/Vue/Node), .NET (C#/VB/ASP/MVC/WebAPI/etc), and SQL. I try to blog on topics related to software engineering as I explore and learn new things. <a href="../williamdistefano_resume.pdf">My resume/CV.</a>
+I am a software architect/engineer interested in both front and back end development, especially (but not only) JavaScript (mostly React/Angular/Vue/Node), .NET (C#/VB/ASP/MVC/WebAPI/etc), and SQL. I try to blog on topics related to software engineering as I explore and learn new things. <a href="../williamdistefano_resume.pdf">My resume/CV.</a>
 
 ### Education
 
