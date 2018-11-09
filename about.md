@@ -18,7 +18,7 @@ Most of my code is not publicly visible, but I do have a few tiny repositories <
 
 ### Work
 
-I currently work for Microsoft as an Apps Consultant, and in the past for ComputerAid as a Software Architect, TecPort Solutions, Pennsylvania State University, Penn State Milton S. Hershey Medical Center, and PerformCare.
+Thoughts, ideas, words, etc on this site are my own and are not associated with any workplace. However, I currently work for Microsoft as an Apps Consultant, and in the past for ComputerAid as a Software Architect, TecPort Solutions, Pennsylvania State University, Penn State Milton S. Hershey Medical Center, and PerformCare.
 
 ### Contact
 
