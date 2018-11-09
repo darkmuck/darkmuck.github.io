@@ -2,7 +2,7 @@
 ID: 2
 post_title: About Me
 author: Shwuzzle
-post_date: 2008-11-20 15:13:11
+post_date: 2018-11-09 09:53:00
 post_excerpt: ""
 layout: page
 permalink: http://localhost:8080/about/
@@ -20,6 +20,6 @@ Shwuzzle was originally intended to serve primarily as a sort of repository for 
 
 <strong>About Me</strong>
 
-I've recently finished my graduate degree in Software Engineering, but I am always trying to learn more. I've been writing software since I was in middle school and I'm now working as a software engineer. My experience is mostly in the form of web development, but I've used quite a wide spectrum of tools, frameworks, and libraries. I'm always trying to learn more and spend time learning more about how to engineer better software and researching anything I find interesting.
+I have a master's in Software Engineering and a bachelor's in Information Systems, but I am always trying to learn more. I've been writing software since I was in middle school and I'm now working as a professional software architect / developer. My experience is mostly in the form of web development, but I've used quite a wide spectrum of tools, frameworks, and libraries. I'm always trying to learn more and spend time learning more about how to engineer better software and researching anything I find interesting.
 
 <a href="http://www.linkedin.com/in/williamdistefano"><img title="My LinkedIn Profile" src="http://shwuzzle.com/wp-content/uploads/2011/02/linkedin_myprofile_button_160x33.gif" alt="" width="160" height="33" /></a>
