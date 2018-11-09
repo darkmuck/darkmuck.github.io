@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About
 
-I am a software architect/engineer interested in both front and back end development, especially (but not only) JavaScript (mostly React/Angular/Vue/Node), .NET (C#/VB/ASP/MVC/WebAPI/etc), and SQL. I try to blog on topics related to software engineering as I explore and learn new things. <a href="../williamdistefano_resume.pdf">My resume/CV.</a>
+I am a software architect/developer interested in both front and back end development, especially (but not only) JavaScript (mostly React/Angular/Vue/Node), .NET (C#/VB/ASP/MVC/WebAPI/etc), and SQL. I try to blog on topics related to software engineering as I explore and learn new things. <a href="../williamdistefano_resume.pdf">My resume/CV.</a>
 
 ### Education
 
@@ -18,7 +18,7 @@ Most of my code is not publicly visible, but I do have a few tiny repositories <
 
 ### Work
 
-I currently work for ComputerAid as a Senior Programmer Analyst and in the past I have worked for TecPort Solutions, Pennsylvania State University, Penn State Milton S. Hershey Medical Center, and PerformCare.
+I currently work for Microsoft as an Apps Consultant, and in the past for ComputerAid as a Software Architect, TecPort Solutions, Pennsylvania State University, Penn State Milton S. Hershey Medical Center, and PerformCare.
 
 ### Contact
 
